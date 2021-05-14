@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+
+node_modules/
+dist/
+target/
+
+.idea/
+.vscode/
+
+.nyc_output/
+coverage/
+
+keys.dat
